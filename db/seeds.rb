@@ -1,3 +1,4 @@
+# Seeding data
 puts "Seeding games..."
 
 # run a loop 50 times
